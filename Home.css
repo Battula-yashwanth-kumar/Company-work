@@ -1,5 +1,5 @@
 body {
-  transition: background-color 9s ease; 
+  transition: background-color .5s ease-out; 
 }
 .nav{
     display: flex;
@@ -113,7 +113,7 @@ content:'';
  height:0%;
  border-bottom:7px solid transparent;
  border-left:7px solid transparent;
- transition: all .8s ease;
+ transition: all .5s ease-out;
 
 }
  .link::after{
