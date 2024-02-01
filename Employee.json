@@ -1,0 +1,46 @@
+ [
+    {
+    "name" : "Amazon",
+    "img" : "amazonlogo.jpg",
+    "link":"home"
+ },
+ {
+    "name" :" Flipkart",
+    "img" :"Image1.png",
+    "link":"home"
+
+ },
+ {
+    "name" :"Trio",
+     "img" :"Image2.png",
+     "link":"home"
+
+ },
+ {
+    "name" : "Amazon",
+    "img" : "Image3.png",
+    "link":"home"
+ },
+ {
+    "name" : "Amazon",
+    "img" : "image4.png",
+    "link":"home"
+ }
+ ,
+ {
+    "name" : "Amazon",
+    "img" : "image4.png",
+    "link":"home"
+ },
+ {
+    "name" : "Amazon",
+    "img" : "image4.png",
+    "link":"home"
+ },
+ {
+    "name" : "Amazon",
+    "img" : "image4.png",
+    "link":"home"
+ }
+]
+
